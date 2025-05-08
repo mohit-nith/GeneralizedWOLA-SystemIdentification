@@ -1,0 +1,10 @@
+Copyright (c) 2025 Mohit Sharma, STADIUS - KU Leuven Belgium
+
+This code is part of ongoing unpublished research and is provided for reference and transparency purposes only.
+
+All rights reserved. Redistribution, modification, or commercial/academic use of this code is not permitted without the explicit written permission of the author.
+
+This repository will be relicensed under an open-source license (e.g., MIT or BSD) once the corresponding research paper is accepted for publication.
+
+For collaboration, access, or citation inquiries, please contact:
+Mohit Sharma – mohit.sharma@kuleuven.be

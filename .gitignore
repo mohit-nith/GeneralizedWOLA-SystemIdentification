@@ -1,0 +1,62 @@
+# MATLAB-specific ignores
+#------------------------------------------------------------------------------
+
+# Backup and autosave files
+*.asv
+*.autosave
+*.m~
+
+
+# Compiled files and binaries
+*.mex*
+*.p
+
+
+# Simulink cache and code generation
+slprj/
+sccprj/
+*_grt_rtw/
+*_ert_rtw/
+*.tlc
+*.log
+*.yml
+*.xml
+
+# Crash dumps
+matlab_crash_dump.*
+
+# User/project specific settings
+*.prj
+*.mldatx
+
+
+# MacOS system files
+#------------------------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+.Spotlight-V100
+.apdisk
+.metadata_never_index
+
+
+# Windows system files
+#------------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+
+# Linux/Unix system files
+#------------------------------------------------------------------------------
+.Trash-*
+.thumbnail/
+.cache/
+/mnt/*
+/media/*
+.Xauthority
+.Xsession
+.xsession-errors
